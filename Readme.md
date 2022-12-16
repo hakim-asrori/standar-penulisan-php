@@ -1,8 +1,7 @@
 # Standar penulisan Kode Program
 
-- Penulisan Nama File
-Penamaan file harus menggunakan huruf kapital setiap katanya. Nama file juga harus merepresentasikan kegunaanya. <br>
-![image](https://user-images.githubusercontent.com/77718626/208190182-d1685176-41fc-4d95-bef4-d26ff65879cd.png)
+- Penulisan Nama File dapat dilihat pada tautan ini [StandarPenulisanFile.md](StandarPenulisanFile.md)
+
 
 - Penulisan Nama Class
 Penulisan nama class itu sama dengan nama file-nya namun dihilangkan ekstensi dari file-nya saja.
