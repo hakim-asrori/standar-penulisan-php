@@ -20,4 +20,11 @@ Penulisan nama variable harus jelas dan merepresentasikan isianya. untuk satu ka
 Untuk pemanggilan class eksternal yang akan digunakan, diharuskan untuk diimport dan didefinisikan dulu sebelum digunakan.<br>
 <img height="500" src="https://user-images.githubusercontent.com/77718626/208193582-67b1551b-2bd8-43cd-b1b2-3239325acb93.png">
 
-### 6. Berikan setiap komentar penjelasan untuk penulisan kode program atau logic yang rumit.<br>
+### 6. Penulisan Route URL
+Untuk penulisan URL jika terdiri satu kata diharuskan menggunakan huruf kecil semua. Untuk yang lebih dari satu kata diharuskan menggunakan dash (-) untuk memisahkan kata tersebut. <br>
+<img src="https://user-images.githubusercontent.com/77718626/208197727-7acd9477-96a8-4d2a-b35c-388324a7175a.png" width="700"> <br>
+Untuk penulisan route pada Laravel diharapkan menggunakan method name agar tidak redudansi.
+
+### 7. Berikan setiap komentar penjelasan untuk penulisan kode program atau logic yang rumit.<br>
+
+### 8. Diharapkan penulisan kode program menggunakan bahasa inggris, baik penamaan variable, class, file, model, route dan lain-lainnya. jika keberatan bisa diskusikan dengan developer dan juga tim dari proyek tersebut. <br>
