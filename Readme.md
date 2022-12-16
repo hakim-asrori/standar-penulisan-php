@@ -27,4 +27,4 @@ Untuk penulisan route pada Laravel diharapkan menggunakan method name agar tidak
 
 ### 7. Berikan setiap komentar penjelasan untuk penulisan kode program atau logic yang rumit.<br>
 
-### 8. Diharapkan penulisan kode program menggunakan bahasa inggris, baik penamaan variable, class, file, model, route dan lain-lainnya. jika keberatan bisa diskusikan dengan developer dan juga tim dari proyek tersebut. <br>
+### 8. Diharapkan penulisan kode program menggunakan bahasa inggris, baik penamaan variable, class, file, model, route dan lain-lainnya. jika keberatan bisa di diskusikan dengan developer dan juga tim dari proyek tersebut. <br>
